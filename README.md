@@ -1,5 +1,4 @@
-# Resources-for-statistical-post-processing
-Resources for statistical post-processing of weather forecasts
+# Resources for statistical post-processing of weather forecasts
 ## Python:
 pyNMME: developed by Huang, Zhao et al. https://www.sciencedirect.com/science/article/pii/S1364815223001184
 
